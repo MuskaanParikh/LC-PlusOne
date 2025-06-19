@@ -45,7 +45,7 @@ Python 3.x
 
 typing module (standard from Python 3.5+)
 
-to run the code: python3 ./Length-of-Last-Word.py
+to run the code: python3 ./Plus-One.py
 
 ## 📄 License
 This code is based on the Plus One problem from LeetCode and is for learning purposes only.
